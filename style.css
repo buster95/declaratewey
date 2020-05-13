@@ -1,8 +1,9 @@
 html,
 body {
-    margin     : 0;
-    padding    : 0;
-    font-family: Arial, Helvetica, sans-serif;
+    margin          : 0;
+    padding         : 0;
+    font-family     : Arial, Helvetica, sans-serif;
+    background-color: #e35183;
 }
 
 .container {
@@ -16,21 +17,25 @@ body {
 }
 
 .container .title {
-    font-size: 28px;
+    font-size: 35px;
+    color    : white;
 }
 
 .container .buttons {
     margin-top : 50px;
-    margin-left: -100px;
+    margin-left: -130px;
 }
 
 .container .buttons .btn {
-    position   : absolute;
-    padding    : 10px 15px;
-    font-size  : 14px;
-    font-weight: bold;
+    position        : absolute;
+    padding         : 10px 20px;
+    font-size       : 18px;
+    background-color: #7f0000;
+    color           : white;
+    border          : none;
+    border-radius   : 3px;
 }
 
 .container .buttons>#btnno {
-    margin-left: 50px;
+    margin-left: 70px;
 }
