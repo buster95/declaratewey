@@ -1,1 +1,1 @@
-[Click here to see this page](https://buster95.github.io/declaratewey/)
+[Click here to see this page](https://JossP10.github.io/declaratewey/)
